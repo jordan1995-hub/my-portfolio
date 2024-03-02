@@ -22,7 +22,7 @@ import { ref } from 'vue'
 
 const title = ref('My Skills')
 const skills = ref([
-  {name:'HTML', icon: "./public/assets/logo5.png"}, 
+  {name:'HTML', icon: "/assets/logo5.png"}, 
   {name:'CSS', icon: "/public/assets/logo6.png"},
   {name:'JAVASCRIPT', icon: "/public/assets/logo4.png"},
   {name:'TAILWIND CSS', icon: "/public/assets/logo7.png"},
