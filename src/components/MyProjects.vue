@@ -11,7 +11,7 @@
           <div class="flex flex-wrap -m-4">
             <div class="xl:w-1/4 md:w-1/2 p-4">
               <div class="bg-gray-100 p-6 rounded-lg">
-                <img class="object-cover object-center rounded" alt="hero" src="/src/assets/Jordan.jpg">
+                <img class="object-cover object-center rounded" alt="hero" src="/public/assets/Jordan.jpg">
                 <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">BIKE E-COMMERCE</h3>
                 <h2 class="text-lg text-gray-900 font-medium title-font mb-4">VUE JS/TAILWIND</h2>
                 <p class="leading-relaxed text-base">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
@@ -19,7 +19,7 @@
             </div>
             <div class="xl:w-1/4 md:w-1/2 p-4">
               <div class="bg-gray-100 p-6 rounded-lg">
-                <img class="object-cover object-center rounded" alt="hero" src="/src/assets/Jordan.jpg">
+                <img class="object-cover object-center rounded" alt="hero" src="/public/assets/Jordan.jpg">
                 <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">VUE JS CRUD</h3>
                 <h2 class="text-lg text-gray-900 font-medium title-font mb-4">VUES/TAILWIND</h2>
                 <p class="leading-relaxed text-base">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
@@ -27,7 +27,7 @@
             </div>
             <div class="xl:w-1/4 md:w-1/2 p-4">
               <div class="bg-gray-100 p-6 rounded-lg">
-                <img class="object-cover object-center rounded" alt="hero" src="/src/assets/Jordan.jpg">
+                <img class="object-cover object-center rounded" alt="hero" src="/public/assets/Jordan.jpg">
                 <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">LEARNING WEBSITE</h3>
                 <h2 class="text-lg text-gray-900 font-medium title-font mb-4">VUE JS/ TAILWIND</h2>
                 <p class="leading-relaxed text-base">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
@@ -35,7 +35,7 @@
             </div>
             <div class="xl:w-1/4 md:w-1/2 p-4">
               <div class="bg-gray-100 p-6 rounded-lg">
-                <img class="object-cover object-center rounded" alt="hero" src="/src/assets/Jordan.jpg">
+                <img class="object-cover object-center rounded" alt="hero" src="/public/assets/Jordan.jpg">
                 <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SIMPLE PROJECTS</h3>
                 <h2 class="text-lg text-gray-900 font-medium title-font mb-4">HTML/CSS/JAVASCRIPT</h2>
                 <p class="leading-relaxed text-base text-overflow-ellipsis  line-clamp-3">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>

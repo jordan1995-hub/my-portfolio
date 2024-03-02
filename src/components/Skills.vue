@@ -22,14 +22,14 @@ import { ref } from 'vue'
 
 const title = ref('My Skills')
 const skills = ref([
-  {name:'HTML', icon: "/src/assets/logo5.png"},
-  {name:'CSS', icon: "/src/assets/logo6.png"},
-  {name:'JAVASCRIPT', icon: "/src/assets/logo4.png"},
-  {name:'TAILWIND CSS', icon: "/src/assets/logo7.png"},
-  {name:'GIT', icon: "/src/assets/logo3.png"},
-  {name:'VUE JS', icon: "/src/assets/logo9.png"},
-  {name:'UI/UX DESIGN', icon: "/src/assets/logo2.png"},
-  {name:'WORDPRESS ', icon: "/src/assets/logo1.png"},
+  {name:'HTML', icon: "/public/assets/logo5.png"},
+  {name:'CSS', icon: "/public/assets/logo6.png"},
+  {name:'JAVASCRIPT', icon: "/public/assets/logo4.png"},
+  {name:'TAILWIND CSS', icon: "/public/assets/logo7.png"},
+  {name:'GIT', icon: "/public/assets/logo3.png"},
+  {name:'VUE JS', icon: "/public/assets/logo9.png"},
+  {name:'UI/UX DESIGN', icon: "/public/assets/logo2.png"},
+  {name:'WORDPRESS ', icon: "/public/assets/logo1.png"},
   
 ])
 </script>

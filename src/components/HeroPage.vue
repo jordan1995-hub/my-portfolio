@@ -12,7 +12,7 @@
             </div>
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-            <img class="object-cover object-center rounded" alt="hero" src="/src/assets/Jordan.jpg">
+            <img class="object-cover object-center rounded" alt="hero" src="/public/assets/Jordan.jpg">
           </div>
         </div>
       </section>
